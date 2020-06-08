@@ -511,7 +511,7 @@ body .zapis {
   
  
 }
-media screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
   body #onas {
     background-image: url(..//image/pink_rice.png);
     background-repeat: repeat;
